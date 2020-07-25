@@ -28,7 +28,7 @@ url: "https://osinmv.github.io" # the base hostname & protocol for your site, e.
 github_username:  osinmv
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
