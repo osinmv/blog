@@ -21,8 +21,7 @@
 title: Canadian blog of Russian Canadian
 email: osinmv@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Yo! I am teenager. I currently study in University of Toronto. I am interested in new technology.
-  I have acheived 50/50 balance between personal life and university life
+  Yo! I am Max. If you want to know more about me and my life check out recent posts.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://osinmv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  osinmv
