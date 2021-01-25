@@ -1,5 +1,5 @@
 ---
-title: Home
+title: About
 layout: home
 ---
 
@@ -8,3 +8,4 @@ Hello. I am Max. I am student in University of Toronto. I am in Statistics Data 
 During free time I develop games, read and play chess. 
 
 Check out posts to see my pet projects.
+
