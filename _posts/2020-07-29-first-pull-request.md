@@ -15,7 +15,7 @@ This community is special. Firstly, it was a community dedicated to develop a st
 
 ## Documentation
 
-I should mention that I do not have any experience with **C++**. Thus, the only thing that I could contribute was **documentation**. Here is how it [currently looks][https://docs.momentum-mod.org/entity/mapbase_enhancements/]. At the time I chatted with **Gocnak**. He is a maintainer of [game][https://github.com/momentum-mod/game] and [documentation][https://github.com/momentum-mod/docs] repositories on **GitHub**. Gocnak told me that there is some lack of documentation for game entities. This is the exact thing I wrote documentation for.
+I should mention that I do not have any experience with **C++**. Thus, the only thing that I could contribute was **documentation**. Here is how it [currently looks](https://docs.momentum-mod.org/entity/mapbase_enhancements/). At the time I chatted with **Gocnak**. He is a maintainer of [game](https://github.com/momentum-mod/game) and [documentation](https://github.com/momentum-mod/docs) repositories on **GitHub**. Gocnak told me that there is some lack of documentation for game entities. This is the exact thing I wrote documentation for.
 
 ## Testing and Jekyll
 
@@ -23,4 +23,4 @@ Once I finished writing documentation, I had to test and check that all the post
 
 ## Conclusion
 
-I completed documentation in one week. In that same week I learned Jekyll, got into closed beta and made my [first pull request][https://github.com/momentum-mod/docs/pull/59]. I think that this was a success for a first year student in UTSC. 
+I completed documentation in one week. In that same week I learned Jekyll, got into closed beta and made my [first pull request](https://github.com/momentum-mod/docs/pull/59). I think that this was a success for a first year student in UTSC. 
