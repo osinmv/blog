@@ -13,9 +13,13 @@ The development was not hard due to the fact that I already developed some game 
 
 <img src="{{site.baseurl}}/assets/game.png">
 
-The second stage was to add start screen of the game. Since all the start screens are similar among all phone games I decided to create an asset  that generates start screen for me. This is an example of it in my game. ![startscreen](/assets/startmenu.png)
+The second stage was to add start screen of the game. Since all the start screens are similar among all phone games I decided to create an asset  that generates start screen for me. This is an example of it in my game. 
 
-Finally I had to add simple screens for win and lose conditions. Here how it looks in my game ![endscreen](/assets/gameover.png)
+<img src="{{site.baseurl}}/assets/startgame.png">
+
+Finally I had to add simple screens for win and lose conditions. Here how it looks in my game 
+
+<img src="{{site.baseurl}}/assets/gameover.png">
 
 ## Conclusion
 
