@@ -24,3 +24,4 @@ Once I finished writing documentation, I had to test and check that all the post
 ## Conclusion
 
 I completed documentation in one week. In that same week I learned Jekyll, got into closed beta and made my [first pull request](https://github.com/momentum-mod/docs/pull/59). I think that this was a success for a first year student in UTSC. 
+
