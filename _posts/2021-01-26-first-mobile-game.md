@@ -11,15 +11,15 @@ The idea came to me when **twitch** banned **Pog** emotes. I decided to develop 
 
 The development was not hard due to the fact that I already developed some game demos on unity as pet projects.  Everything started with me creating a screen with falling emotes and score at the top. 
 
-<img src="https://i.ibb.co/QbMWSQY/game.png" alt="startscreen" style="zoom:5%;" />
+<img src="https://i.ibb.co/QbMWSQY/game.png" alt="startscreen" width="200" />
 
 The second stage was to add start screen of the game. Since all the start screens are similar among all phone games I decided to create an asset  that generates start screen for me. This is an example of it in my game.
 
- <img src="https://i.ibb.co/hg3m587/startmenu.png" alt="startscreen" style="zoom:5%;" />
+ <img src="https://i.ibb.co/hg3m587/startmenu.png" alt="startscreen" width="200" />
 
 Finally I had to add simple screens for win and lose conditions. Here how it looks in my game
 
- <img src="https://i.ibb.co/SBqzTzr/gameover.png" alt="endscreen" style="zoom:5%;" />
+ <img src="https://i.ibb.co/SBqzTzr/gameover.png" alt="endscreen" width="200"  />
 
 ## Conclusion
 
