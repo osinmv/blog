@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My First Game"
-categories: Game, Unity, Android
+categories: Game Unity Android
 ---
 
 ## Idea
