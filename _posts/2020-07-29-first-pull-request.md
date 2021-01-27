@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "My first Pull Request"
-categories: Open Source, GitHub, Experience
 ---
 
 ## Introduction
